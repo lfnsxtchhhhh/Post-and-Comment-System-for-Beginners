@@ -6,3 +6,4 @@
 # Parameter: post_content
 # Source code:post_and_comment_system/post_and_comment_system/home.php
 # Vulnerability proof：Use SQLMAP
+# ![image](https://github.com/lfnsxtchhhhh/Post-and-Comment-System-for-Beginners/blob/main/sqlmap.png)
